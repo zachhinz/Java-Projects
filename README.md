@@ -13,7 +13,10 @@ class performs the correct mathematical operation based on the two input
 Creates and maintains a matrix of values, and updates values as necessary. 
 Holds this in memory as a Doubly Linked List, where each node of the list states where a
 sequence of entries of the same value begins. If we have AAA, we only need one node which remebers
-the starting point of that sequence.
+the starting point of that sequence. CompressedTable contains the main method, 
+Compression maintains the CurDoublyLinkedList which remembers all inputed values. RowOrderPosn describes a position in the matrix, Association describes the link between a value and its position, and Table2D describes the matrix. 
 
 # Silver Dollar Game
-Graphical implementation of the silver dollar game using Java. Coin describes the features of the particular features of the coin, CoinStrip the features of the coinstrip, and GraphicsCoinStrip holds the main method while also ensuring that no rules are violated. 
+Graphical implementation of the silver dollar game using Java. 
+Coin describes the features of the particular features of the coin, CoinStrip the features of the coinstrip, and 
+GraphicsCoinStrip holds the main method while also ensuring that no rules are violated. 
