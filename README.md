@@ -16,4 +16,4 @@ sequence of entries of the same value begins. If we have AAA, we only need one n
 the starting point of that sequence.
 
 # Silver Dollar Game
-Graphical implementation of the silver dollar game using Java. Coin describes the features of the particular features of the coin, Coinstrip the features of the coinstrip, and GraphicsCoinStrip holds the main method while also ensuring that no rules are violated. 
+Graphical implementation of the silver dollar game using Java. Coin describes the features of the particular features of the coin, CoinStrip the features of the coinstrip, and GraphicsCoinStrip holds the main method while also ensuring that no rules are violated. 
